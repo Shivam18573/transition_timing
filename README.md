@@ -1,2 +1,2 @@
 # transition_timing
-To display my basic understanding of CSS.
+To display my basic understanding of CSS transition.
